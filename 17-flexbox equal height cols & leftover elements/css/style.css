@@ -1,0 +1,19 @@
+/* Box-sizing border-box */
+html {
+	box-sizing: border-box;
+}
+
+*, *:before, *:after { 
+	box-sizing: inherit; 
+}
+
+body{
+	margin: 0;
+	font-family: sans-serif;
+	background-image: linear-gradient(260deg, #2376ae, 0%, #c16ecf 100%);
+}
+
+a {
+	color: white;
+}
+
